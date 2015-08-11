@@ -9,7 +9,7 @@ title:               Poole
 tagline:             The Jekyll Butler
 url:                 http://getpoole.com
 paginate:            1
-baseurl:             "http://wannesvl.github.io/"
+baseurl:             "http://wannesvl.github.io/poole/"
 
 # Assets
 #
